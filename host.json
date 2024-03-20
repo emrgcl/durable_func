@@ -14,5 +14,11 @@
   },
   "managedDependency": {
     "enabled": true
+  },
+  "extensions": {
+    "durableTask": {
+      "hubName": "MyTaskHub"
+      
+    }
   }
 }
